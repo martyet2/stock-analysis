@@ -1,2 +1,2 @@
 # stock-analysis
-Analysis specific stocks
+Analysis of specific stocks
